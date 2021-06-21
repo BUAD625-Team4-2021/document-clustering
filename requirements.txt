@@ -1,0 +1,7 @@
+bs4
+jupyter
+matplotlib
+nltk
+pandas
+scikit-learn
+scipy
